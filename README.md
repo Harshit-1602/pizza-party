@@ -30,5 +30,5 @@ Welcome to **Pizza Party**, a modern, visually appealing pizza website built usi
 
 Background and UI images are sourced from [Unsplash](https://unsplash.com/) under free-to-use licenses.
 
-## 📁 Folder Structure
+
 
